@@ -18,7 +18,7 @@ const Experiences = () => {
               className="cursor-pointer"
             >
               <h1
-                className={`sm:text-base text-lg px-4 py-2 sm:px-6 sm:py-3 ${
+                className={`sm:text-base text-xl px-4 py-2 sm:px-6 sm:py-3 ${
                   selectedItemIndex === index
                     ? "text-tertiary border-tertiary border-l-4 -ml-[2px] bg-[#1a7f5a31]"
                     : "text-white"
