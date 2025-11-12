@@ -1,4 +1,22 @@
 export const projects = [
+   {
+  link: "https://www.goto.com/",
+  title: "GoTo EN Web Migration",
+  skills: ["Next.js", "React.js", "Sitecore"],
+  image: "https://upload.wikimedia.org/wikipedia/commons/5/55/GoTo_Logo.svg",
+  description: `
+    The <strong>GoTo EN Web Migration</strong> project involved migrating the existing English website to a modern, scalable, and performance-optimized platform.
+    I contributed significantly to rebuilding and enhancing the website using <strong>Next.js</strong> and <strong>React.js</strong>, ensuring responsive design and improved performance.
+    My key contributions included optimizing page structure, enhancing accessibility, and ensuring seamless component migration while maintaining UI/UX consistency.
+    <ul>
+      <li><strong>Next.js</strong> for server-side rendering, dynamic routing, and SEO optimization.</li>
+      <li><strong>React.js</strong> for reusable and modular component-based architecture.</li>
+      <li><strong>Chakra UI</strong> for accessible, consistent, and responsive interface design.</li>
+    </ul>
+    The migration improved the overall loading time, code maintainability, and scalability of the website, ensuring smooth deployment and user experience across all platforms.
+  `,
+  tools: ["Sitecore","Next Js","GitHub","Tailwind CSS"],
+}, 
   {
     link: "https://consciousplanet.org/en/cauvery-calling",
     title: "Cauvery Calling",

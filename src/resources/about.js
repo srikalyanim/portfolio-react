@@ -7,6 +7,7 @@ export const abouts = [
         "JavaScript",
         "React",
         "Next.js",
+        "Sitecore",
         "CSS",
         "Node.js",
         "Express.js",
