@@ -8,6 +8,14 @@ export const experiences = [
     ]
   },
   {
+    company: "Persistent Systems",
+    title: "Next.js Developer",
+    period: "April 2025 - November 2025",
+    description: [
+      "GoTo EN Web Migration: Migrated the legacy GoTo website to a Next.js frontend integrated with Sitecore CMS and GraphQL, enhancing performance and maintainability. Delivered key modules like AnchorNav navigation, International Calling Rates search, and SectionsTab. Refactored components to align with the new tech stack, updated Sitecore content, resolved GraphQL integration issues, and maintained detailed migration documentation to ensure efficient team collaboration."
+    ]
+  },
+  {
     company: "S2Tech",
     title: "Next.js Developer",
     period: "April 2023 - Present",
